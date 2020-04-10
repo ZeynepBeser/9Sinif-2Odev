@@ -38,11 +38,12 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-| 0 | 0,05 |
-| 3,48 | 0,36 |
-| 9,95 | 0,25 |
-| 12,35 | 0,18 |
-| 15,68 | 0,12 |
+| 1,59 | 0,035 |
+| 3,48 | 0,030 |
+| 6,16 | 0,025 |
+| 9,95 | 0,015 |
+| 12,35 | 0,010 |
+| 15,68 | 0,005 |
 
 6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
 
