@@ -44,5 +44,8 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 | 12,35 | 0,018 |
 | 15,68 | 0,012 |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [bağlantı](https://docs.google.com/spreadsheets/d/1643ILPoZxxbvKlhyuQLtzXmLK0AWowxyiFmCKblTp60/edit#gid=0 ). Yakın değil.
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [bağlantı](https://docs.google.com/spreadsheets/d/1pVUD-rWiO0zgtkrWBCiQIQinIjN_qw4sj-4vNNWCKVg/edit#gid=0). 
+- Benim bulduğum eğim formülü: y = -243,24x + 1,5
+- Bilgisayarın bulduğu eğim formülü: y = -502x + 21,5
+Değerler yakın değil.
 
